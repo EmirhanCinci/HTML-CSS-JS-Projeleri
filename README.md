@@ -9,3 +9,5 @@ HTML - CSS ve JS alanındaki yeteneklerimi geliştirmek için yaptığım çalı
 2. Sayı Üreteci -----> Projeyi görmek için [tıklayınız](https://sayi-ureteci-2.netlify.app/).
 
 3. Filtreleme Çalışması -----> Projeyi görmek için [tıklayınız](https://filtreleme-calismasi.netlify.app/).
+
+4. Landing Page Tasarımı -----> Projeyi görmek için [tıklayınız](https://landing-page-tasarimi.netlify.app/).
